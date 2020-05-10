@@ -1,3 +1,3 @@
-import {exitingProject} from "this-is-goint-to-be-very-fun"
+import {fetchMessage} from "simple-fetch-message"
 
-console.log('someFunction', exitingProject())
+console.log('fetchMessage', fetchMessage())

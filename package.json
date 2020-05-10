@@ -12,6 +12,6 @@
   "license": "ISC",
   "dependencies": {
     "esm": "^3.2.25",
-    "this-is-goint-to-be-very-fun": "file:../this-is-goint-to-be-very-fun"
+    "simple-fetch-message": "file:../simple-fetch-message"
   }
 }
